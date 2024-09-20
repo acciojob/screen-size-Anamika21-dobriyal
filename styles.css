@@ -1,5 +1,22 @@
 /*  your css code here. If applicable */
- #sizeInfo {
+ /* #sizeInfo {
             text-align: center;
             margin-top: 50px;
-        }
+        } */
+body {
+        font-family: Arial, sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      #sizeInfo {
+        text-align: center;
+      }
+
+      h1 {
+        font-size: 2em;
+        font-weight: bold;
+      /* } */
